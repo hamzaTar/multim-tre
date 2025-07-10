@@ -1,6 +1,6 @@
 # multim-tre
 
-[] things to be made
+([x]) things to be made
 
 ## why use me
 i like people
