@@ -1,8 +1,6 @@
 # multim-tre
 
-## what am i
-i do things for fun
-
+[] things to be made
 
 ## why use me
 i like people
